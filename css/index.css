@@ -134,3 +134,8 @@ button:hover{
 .artist img{
     width:100%;
 }
+
+#bio1, #bio2 {
+    margin:0 -10%;
+    /* border:2px solid red; */
+}
