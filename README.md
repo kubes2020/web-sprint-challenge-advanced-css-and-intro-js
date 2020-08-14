@@ -29,6 +29,9 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
+
+
+---------------------------------------------
 ## Instructions
 
 ### Task 1: Project Set Up
@@ -50,6 +53,9 @@ Follow these steps to set up your project:
 ### Task 2b: Minimum Viable Product - JavaScript
 
 Navigate to `index.js` and complete the MVP challenges. Note that you need to scroll past data (or collapse data in VScode) to find the challenges below.
+
+
+---------------------------------------------
 
 ### Task 3: Stretch Problems
 
